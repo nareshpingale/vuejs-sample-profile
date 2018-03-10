@@ -1,6 +1,6 @@
-# print-app
+# Dev Profile
 
-> Online tool to create and print html document.
+> Vue Js App with static simple sample template for Developer profile.
 
 ## Build Setup
 
@@ -26,5 +26,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

@@ -163,7 +163,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   .document-wrapper{
-    max-width: 1024px;
+    max-width: 900px;
     margin: 0px auto;
   }
 </style>
